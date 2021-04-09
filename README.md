@@ -8,4 +8,4 @@
 - Normalize.css
 - SVG Sprites
 
-### Время выполнения проекта - 6 часов
+### deploy: https://annaignatova.github.io/YouTube/
